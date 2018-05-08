@@ -1,0 +1,66 @@
+Possibility of Spy : 0%, Is Change Choise : YES, Average score : 2587.99
+
+winner strategy combination : 3 3 3 3 3   best scores : 0
+
+winner strategy combination : 3 3 3 3 3   best scores : 0
+
+winner strategy combination : 3 3 3 3 3   best scores : 0
+
+winner strategy combination : 3 3 3 3 3   best scores : 0
+
+winner strategy combination : 3 3 3 3 3   best scores : 0
+
+ 
+Possibility of Spy : 5%, Is Change Choise : YES, Average score : 2614.63
+
+winner strategy combination : 3 3 3 3 3   best scores : 414
+
+ 
+Possibility of Spy : 10%, Is Change Choise : YES, Average score : 2641.43
+
+winner strategy combination : 3 3 3 3 3   best scores : 845
+
+ 
+Possibility of Spy : 15%, Is Change Choise : YES, Average score : 2669.58
+
+winner strategy combination : 3 3 3 3 3   best scores : 837
+
+ 
+Possibility of Spy : 20%, Is Change Choise : YES, Average score : 2698.67
+
+winner strategy combination : 3 3 3 3 3   best scores : 1168
+
+ 
+Possibility of Spy : 0%, Is Change Choise : NO, Average score : 2588.14
+
+winner strategy combination : 3 3 3 3 3   best scores : 0
+
+winner strategy combination : 3 3 3 3 3   best scores : 0
+
+winner strategy combination : 3 3 3 3 3   best scores : 0
+
+winner strategy combination : 3 3 3 3 3   best scores : 0
+
+winner strategy combination : 3 3 3 3 3   best scores : 0
+
+ 
+Possibility of Spy : 5%, Is Change Choise : NO, Average score : 2587.3
+
+winner strategy combination : 3 3 3 3 3   best scores : 467
+
+ 
+Possibility of Spy : 10%, Is Change Choise : NO, Average score : 2588.18
+
+winner strategy combination : 3 3 3 3 3   best scores : 944
+
+ 
+Possibility of Spy : 15%, Is Change Choise : NO, Average score : 2589.6
+
+winner strategy combination : 3 3 3 3 3   best scores : 1057
+
+ 
+Possibility of Spy : 20%, Is Change Choise : NO, Average score : 2589.84
+
+winner strategy combination : 3 3 3 3 3   best scores : 1490.5
+
+ 

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Base">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Creator">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SourceCode\Lib\File.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceCode\Lib\StrategyFile.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceCode\Lib\StrategyFileManager.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceCode\Lib\StrategyInterpreter.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceCode\Lib\Player.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceCode\Lib\StrategyCreator.cpp">
+      <Filter>Creator</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceCode\Lib\GangStrategyCreator.cpp">
+      <Filter>Creator</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceCode\Lib\Game.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceCode\Lib\GangGame.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceCode\Lib\Gang.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SourceCode\Lib\File.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceCode\Lib\Header.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceCode\Lib\StrategyFile.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceCode\Lib\StrategyFileManager.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceCode\Lib\StrategyInterpreter.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceCode\Lib\Player.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceCode\Lib\StrategyCreator.h">
+      <Filter>Creator</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceCode\Lib\GangStrategyCreator.h">
+      <Filter>Creator</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceCode\Lib\Game.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceCode\Lib\GangGame.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceCode\Lib\Gang.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

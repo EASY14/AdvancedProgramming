@@ -1,0 +1,55 @@
+    0vs1      Result: Player 1 Score: 2     ,Player 2 Score: 997  
+    0vs2      Result: Player 1 Score: 801   ,Player 2 Score: 796  
+    0vs3      Result: Player 1 Score: 2     ,Player 2 Score: 997  
+    0vs4      Result: Player 1 Score: 801   ,Player 2 Score: 796  
+    0vs5      Result: Player 1 Score: 9     ,Player 2 Score: 994  
+    0vs6      Result: Player 1 Score: 2     ,Player 2 Score: 997  
+    0vs7      Result: Player 1 Score: 533   ,Player 2 Score: 863  
+    0vs8      Result: Player 1 Score: 398   ,Player 2 Score: 898  
+    0vs9      Result: Player 1 Score: 801   ,Player 2 Score: 796  
+
+    1vs2      Result: Player 1 Score: 1000  ,Player 2 Score: 0    
+    1vs3      Result: Player 1 Score: 400   ,Player 2 Score: 400  
+    1vs4      Result: Player 1 Score: 1000  ,Player 2 Score: 0    
+    1vs5      Result: Player 1 Score: 403   ,Player 2 Score: 398  
+    1vs6      Result: Player 1 Score: 400   ,Player 2 Score: 400  
+    1vs7      Result: Player 1 Score: 682   ,Player 2 Score: 212  
+    1vs8      Result: Player 1 Score: 400   ,Player 2 Score: 400  
+    1vs9      Result: Player 1 Score: 1000  ,Player 2 Score: 0    
+
+    2vs3      Result: Player 1 Score: 0     ,Player 2 Score: 1000 
+    2vs4      Result: Player 1 Score: 902   ,Player 2 Score: 392  
+    2vs5      Result: Player 1 Score: 4     ,Player 2 Score: 999  
+    2vs6      Result: Player 1 Score: 0     ,Player 2 Score: 1000 
+    2vs7      Result: Player 1 Score: 512   ,Player 2 Score: 872  
+    2vs8      Result: Player 1 Score: 396   ,Player 2 Score: 901  
+    2vs9      Result: Player 1 Score: 906   ,Player 2 Score: 376  
+
+    3vs4      Result: Player 1 Score: 1000  ,Player 2 Score: 0    
+    3vs5      Result: Player 1 Score: 403   ,Player 2 Score: 398  
+    3vs6      Result: Player 1 Score: 400   ,Player 2 Score: 400  
+    3vs7      Result: Player 1 Score: 697   ,Player 2 Score: 202  
+    3vs8      Result: Player 1 Score: 400   ,Player 2 Score: 400  
+    3vs9      Result: Player 1 Score: 1000  ,Player 2 Score: 0    
+
+    4vs5      Result: Player 1 Score: 4     ,Player 2 Score: 999  
+    4vs6      Result: Player 1 Score: 0     ,Player 2 Score: 1000 
+    4vs7      Result: Player 1 Score: 520   ,Player 2 Score: 870  
+    4vs8      Result: Player 1 Score: 396   ,Player 2 Score: 901  
+    4vs9      Result: Player 1 Score: 800   ,Player 2 Score: 800  
+
+    5vs6      Result: Player 1 Score: 400   ,Player 2 Score: 400  
+    5vs7      Result: Player 1 Score: 688   ,Player 2 Score: 208  
+    5vs8      Result: Player 1 Score: 398   ,Player 2 Score: 403  
+    5vs9      Result: Player 1 Score: 999   ,Player 2 Score: 4    
+
+    6vs7      Result: Player 1 Score: 721   ,Player 2 Score: 186  
+    6vs8      Result: Player 1 Score: 400   ,Player 2 Score: 400  
+    6vs9      Result: Player 1 Score: 1000  ,Player 2 Score: 0    
+
+    7vs8      Result: Player 1 Score: 439   ,Player 2 Score: 629  
+    7vs9      Result: Player 1 Score: 869   ,Player 2 Score: 524  
+
+    8vs9      Result: Player 1 Score: 901   ,Player 2 Score: 396  
+
+
